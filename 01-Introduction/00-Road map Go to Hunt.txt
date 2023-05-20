@@ -1,0 +1,34 @@
+|Issue                      | Avrage                            |
+|---------------------------|-----------------------------------|
+|Network+                   | 50%                               |
+| VPN                       | run virtual private server (VPS)  |
+| PortSwigger.net(OWASP)    | Solve every Labs	                |
+| BurpSuite                 | 100%	     					    |
+| Linux                     | 50%                               |
+| Golang                    | 50%                               |
+| JavaScript                | 50%                               |
+| Bash (Bourne-again SHell) | 50%                               |
+
+
+1-  HTTP
+2-  Open Redirect
+3-  HTTP Parameter Pollution                                    آلودگی پارامتر
+4-  CSRF --> Cross-Site Request Forgery                         جعل درخواست بین سایتی
+5-  HTMLi--> HTML Injection                   
+6-  CRLFi--> Carriage Return Line Injections                    تزریق خط برگشت پایان خط
+7-  XSS  --> Cross-Site Scripting                               اسکریپت بین سایتی
+8-  SSTi --> Server Side Template Injection                     تزریق قالب سمت سرور
+9-  SQLi --> Structured Query Injection                         تزریق در پایگاه داده
+10- SSRF --> Server Side Request Forgery                        جعل درخواست سمت سرور
+11- XEE  --> External Entity vulnerabilities                    آسیب پذیری های موجودیت خارجی
+12- RCE  --> Remote Code Execution                              اجرای کد از راه دور
+13- memory related vulnerabilities                              آسیب پذیری های مرتبط با حافظه
+14- SDT  --> Sub Domain Takeovers                               تصاحب دامنه های فرعی
+15- RC   --> Race Donditions                                    مثل خرید مجدد ولی رایگان یا ارسال انتقال پول ولی بدون داشتن دارایی
+16- IDOR --> Insecure Direct Object Reference                   مرجع شی مستقیم ناامن
+17- application logic based vulnerabilities                     آسیب پذیری های مبتنی بر منطق برنامه
+18- How get started, Where and how to look for vulnerabilities? چگونه شروع کنیم، کجا و چگونه به دنبال آسیب پذیری ها بگردیم
+19- Is arguably one of the most important tutorials. Effective report to companies 19- می توان گفت یکی از مهم ترین نمونه هاست. گزارش موثر به شرکت ها
+20- switches gears to hacking tools
+21- covers off key terms you should know while hacking
+
